@@ -1,0 +1,38 @@
+body
+{
+	background-color:#f0f0f0;
+}
+
+#jumbotron
+{
+	background-color:#4286f4;
+	
+}
+#jumbotron h1 
+{
+	color:white;
+}
+#parts label 
+{ 
+color:#4286f4;
+
+}
+#parts a
+{
+	color:#4286f4;
+	font-size:20px;
+	font-weight:bold;
+}
+
+#fisrt
+{
+	width: 100px;
+}
+a 
+{
+	color:white;
+}
+#SS 
+{
+	width:300px;
+}

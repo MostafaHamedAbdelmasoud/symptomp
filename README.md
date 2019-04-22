@@ -14,7 +14,9 @@ after download the project:
 
 4- import symptomp.sql folder to your database directory.
 
-5- make database credentials in env file:
+5- copy .env.example file and name it .env only
+
+6- make database credentials in .env file:
 
 so change:
 

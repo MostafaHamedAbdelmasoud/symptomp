@@ -29,6 +29,6 @@ DB_USERNAME=root
 
 DB_PASSWORD=
 
-6- run "php artisan serve".
+7- run "php artisan serve".
 
 /***********/

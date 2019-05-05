@@ -2,7 +2,7 @@
 it's an arabic symptomp checker website made with laravel and mysql
 
 ![](public/assets/images/back1.png)
-
+![](public/assets/images/back2.png)
 
 # installation dependencies
 

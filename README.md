@@ -1,6 +1,9 @@
 # symptomp
 it's an arabic symptomp checker website made with laravel and mysql
 
+![](public/assets/images/Screenshot from 2019-05-05 18-01-48.png)
+
+
 # installation dependencies
 
 

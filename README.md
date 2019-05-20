@@ -15,11 +15,9 @@ after download the project:
 
 3- run "composer update".
 
-4- import symptomp.sql folder to your database directory.
+4- copy .env.example file and name it .env only
 
-5- copy .env.example file and name it .env only
-
-6- make database credentials in .env file:
+5- make database credentials in .env file:
 
 so change:
 
@@ -29,6 +27,6 @@ DB_USERNAME=root
 
 DB_PASSWORD=
 
-7- run "php artisan serve".
+6- run "php artisan serve".
 
 /***********/

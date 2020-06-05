@@ -9,24 +9,32 @@ it's an arabic symptomp checker website made with laravel and mysql
 
 after download the project:
 
-1- run "cd/ symptomp"
+```
 
-2- run "composer install".
+cd/ symptomp
 
-3- run "composer update".
+composer install
 
-4- copy .env.example file and name it .env only
+composer update
 
-5- make database credentials in .env file:
+npm install
 
-so change:
+php artisan key:generate
+```
+
+```
+copy .env.example file and name it .env only
+
+ make database credentials in .env file:
 
 DB_DATABASE=symptom
 
 DB_USERNAME=root
 
 DB_PASSWORD=
-
-6- run "php artisan serve".
+ ```
+```
+ run "php artisan serve
+```
 
 /***********/
